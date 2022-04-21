@@ -2,7 +2,7 @@
 ## Living and learning
 ⊱ 🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
 ⊱ 🌱 Studying Java, Python, React Native, Html, Css.. <br>
-
+⊱ 📚 Studying Systems Development - Senai Roberto Mange
 <div align="center">
   <a href="https://github.com/Itstf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itstf&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
