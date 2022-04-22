@@ -17,6 +17,8 @@
   <img align="center" alt="Thai-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thai-HTML" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   
+   <img align="right" alt="Thai" src="https://cdn.discordapp.com/attachments/932122930643623987/967126499373223987/a_7638e5547e053f9d25242a431b0cd326.gif">
    <img align="right" alt="Thai" src="https://cdn.discordapp.com/attachments/929135799503585300/966841056626884648/200.gif">
 </div>
   
