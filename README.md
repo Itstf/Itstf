@@ -1,8 +1,12 @@
 
 ## I'm Thaiza Favarelli
-⊱ 🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
-⊱ 🌱 Studying Java, Python, React Native, Html, Css.. <br>
-⊱ 📚 Studying Systems Development - Senai Roberto Mange <br> 
+<p align="center">
+ • <a href="#About">About me</a> •
+</p>
+
+>🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
+>🌱 Studying Java, Python, React Native, Html, Css.. <br>
+>📚 Studying Systems Development - Senai Roberto Mange <br>
 
 ## Languages and Tools:
 <div align="center">
