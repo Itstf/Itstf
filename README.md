@@ -1,9 +1,10 @@
 
-## Living and learning
+## I'm Thaiza Favarelli
 ⊱ 🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
 ⊱ 🌱 Studying Java, Python, React Native, Html, Css.. <br>
 ⊱ 📚 Studying Systems Development - Senai Roberto Mange <br> 
 
+## Languages and Tools:
 <div align="center">
   <a href="https://github.com/Itstf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itstf&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
@@ -26,5 +27,4 @@
    <a href="https://www.instagram.com/tfavarelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaiza-favarelli-da-silva-082978220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> <br>
-  <a href="https://github.com/Itstf" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a> 
-</div>
+  <a href="https://github.com/Itstf" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a> </div>
