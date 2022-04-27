@@ -1,7 +1,7 @@
 
 ## I'm Thaiza Favarelli
 <p align="center">
- • <a href="#About">About me</a> •
+ • About me •
 </p>
 
 >🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
