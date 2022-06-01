@@ -1,9 +1,9 @@
 
 ## I'm Thaiza Favarelli
-<p align="center">
- <a href="https://favarellit.web.app/">• About me •</a>
+<p align="">
+ <img src=https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=%E2%80%A2+About+Me+%E2%80%A2
 </p>
-
+ 
 >🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
 >🌱 Studying Java, Python, React Native, Html, Css.. <br>
 >📚 Studying Systems Development - Senai Roberto Mange <br>
