@@ -5,7 +5,7 @@
 </p>
  
 >🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
->🌱 Studying Java, Python, React, React Native.. <br>
+>🌱 Studying Java, Python, JS, React, React Native, PowerBI, VBA.. <br>
 >📚 Studying Systems Development - Senai Roberto Mange <br>
 >📚 Attending 2nd year of high school integrated with the IT technician - Colégio Politec <br>
 
