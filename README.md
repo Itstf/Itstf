@@ -34,3 +34,7 @@
   <a href="https://github.com/Itstf" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=your-github-Itstf&style=flat-square&color=blue" alt=""/></div>
  <img align="right" alt="Thai" src="https://media.discordapp.net/attachments/932122930643623987/968546727378452570/1650989968976.gif">
+ 
+![Snake animation](https://github.com/Itstf/Itstf/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
