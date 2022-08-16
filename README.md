@@ -35,6 +35,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Itstf&style=flat-square&color=blue" alt=""/></div>
  <img align="right" alt="Thai" src="https://media.discordapp.net/attachments/932122930643623987/968546727378452570/1650989968976.gif">
  
-![Snake animation](https://github.com/Itstf/Itstf/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Itstf/Itstf/blob/output/github-contribution-grid-snake.svg)
  
 </div>
