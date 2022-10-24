@@ -1,5 +1,5 @@
 
-## I'm Thaiza Favarelli
+## I'm Thaiza F. da Silva
 <p align="">
  <img src=https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=%E2%80%A2+About+Me+%E2%80%A2
 </p>
@@ -8,13 +8,14 @@
 let about = {
     firstName = 'Thaiza',
     lastName = 'Favarelli',
-    age = 17
+    age = 17,
+    country = 'Br'
 }
 ```
  
 >🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
 >📚 Studying Systems Development - Senai Roberto Mange <br>
->📚 Attending 2nd year of high school integrated with the IT technician - Colégio Politec <br>
+>📚 Attending 2nd year of high school integrated with the IT technician - Colégio Politec, Americana-SP<br>
 
 ## Languages:
 <div align="center">
