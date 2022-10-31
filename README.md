@@ -1,7 +1,7 @@
 
 ## I'm Thaiza F. da Silva
 <p align="">
- <img src=https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=%E2%80%A2+About+Me+%E2%80%A2
+ <img src=https://readme-typing-svg.herokuapp.com?color=3b9ef1&lines=%E2%80%A2+About+Me+%E2%80%A2
 </p>
  
 ```javascript
