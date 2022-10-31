@@ -13,9 +13,9 @@ let about = {
 }
 ```
  
->🔭 Currently working at Bosch Carreiras in Campinas-SP <br>
->📚 Studying Systems Development - Senai Roberto Mange <br>
->📚 Attending 2nd year of high school integrated with the IT technician - Colégio Politec, Americana-SP<br>
+> - [x] 💻 Currently working at Bosch Carreiras in Campinas-SP <br>
+> - [x] 📚 Studying Systems Development - Senai Roberto Mange <br>
+> - [x] 📚 Attending 2nd year of high school integrated with the IT technician - Colégio Politec, Americana-SP <br>
 
 ## Languages:
 <div align="center">
