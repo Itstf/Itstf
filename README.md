@@ -9,7 +9,7 @@ let about = {
     firstName = 'Thaiza',
     lastName = 'Favarelli',
     age = 17,
-    country = 'Br'
+    country = 'br'
 }
 ```
  
