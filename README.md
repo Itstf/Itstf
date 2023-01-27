@@ -9,13 +9,14 @@ let about = {
     firstName = 'Thaiza',
     lastName = 'Favarelli',
     age = 17,
-    country = 'br'
+
+
 }
 ```
  
-> - [x] 💻 Currently working at Bosch Carreiras in Campinas-SP <br>
-> - [x] 📚 Studying Systems Development - Senai Roberto Mange <br>
-> - [x] 📚 Attending 2nd year of high school integrated with the IT technician - Colégio Politec, Americana-SP <br>
+> - [x]  https://favarelli-thaiza.web.app/
+
+
 
 ## Languages:
 <div align="center">
@@ -23,7 +24,7 @@ let about = {
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itstf&layout=compact&langs_count=7&theme=swift"/>
 </div>
-  
+
 <div> <br>
   <img align="center" alt="Thai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
