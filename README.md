@@ -8,9 +8,7 @@
 let about = {
     firstName = 'Thaiza',
     lastName = 'Favarelli',
-    age = 17,
-
-
+    age = 17
 }
 ```
  
