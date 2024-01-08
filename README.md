@@ -13,7 +13,7 @@ let about = {
 ```
  
 > - [x]  https://favarelli-thaiza.web.app/
-> - [ ]  https://portfolio-new-eight-ebon.vercel.app/
+> - [x]  https://portfolio-new-eight-ebon.vercel.app/
 
 
 
