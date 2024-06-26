@@ -12,7 +12,6 @@ let about = {
 ```
  
 > - [x]  https://favarelli-thaiza.web.app/
-> - [ ]  https://portfolio-itstf.vercel.app/
 
 
 
