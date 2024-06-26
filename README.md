@@ -7,8 +7,7 @@
 ```javascript
 let about = {
     firstName = 'Thaiza',
-    lastName = 'Favarelli',
-    age = 18
+    lastName = 'Favarelli'
 }
 ```
  
